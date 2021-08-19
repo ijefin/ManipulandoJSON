@@ -7,7 +7,7 @@ projeto no qual estudei manipulação de JSON na prática utilizando JS
 
    ### Exemplo:
 
-   ` "name": "projeto-poo",`    o atributo name deve conter o mesmo nome da pasta que você clonou o projeto. Não utilize sub-diretórios!
+   ` "name": "manipulandoJSON",`    o atributo name deve conter o mesmo nome da pasta que você clonou o projeto. Não utilize sub-diretórios!
 
 2. Você também precisará ter o **nodeJS ** instalado em sua máquina.
 
@@ -17,7 +17,7 @@ projeto no qual estudei manipulação de JSON na prática utilizando JS
 
 5. Para rodar o projeto, você utilizará o seguinte comando:
 
-   ​									`node index.js`
+   ​									`node app.js`
 
 Onde **node** é o código reservado do terminal para a execução, e **index.js** é seu parâmetro, que também nome do nosso arquivo.
 
